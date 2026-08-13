@@ -1,0 +1,373 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Image Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Object Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instance Segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Translation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pose Estimation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Reconstruction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text Detection & Recognition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        }
+      ],
+      "title": "Computer Vision"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audio Embeddings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pitch Estimation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speech to Text",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Point Cloud Classification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Point Cloud Segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Point Cloud Object Detection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        }
+      ],
+      "title": "Lidar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manipulator Motion Planning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Path Planning with Motion Planning Networks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-04-22T16:25:38Z",
+            "owner": "matlab-deep-learning",
+            "repo": "MATLAB-Deep-Learning-Model-Hub",
+            "stars": 558
+          }
+        }
+      ],
+      "title": "Robotics"
+    },
+    {
+      "description": "Pretrained image classification networks have already learned to extract powerful and informative features from natural images. Use them as a starting point to learn a new task using transfer learning.\nInputs are RGB images, the output is the predicted label and score:\n\nThese networks have been trained on more than a million images and can classify images into 1000 object categories.\nModels available in MATLAB:\nNote 1: Since R2024a, please use the imagePretrainedNetwork function instead and specify the pretrained model. For example, use the following code to access googlenet:\nTips for selecting a model\nPretrained networks have different characteristics that matter when choosing a network to apply to your problem. The most important characteristics are network accuracy, speed, and size. Choosing a network is generally a tradeoff between these characteristics. The following figure highlights these tradeoffs:\nFigure. Comparing image classification model accuracy, speed and size.\nBack to top",
+      "items": [],
+      "title": "Image Classification"
+    },
+    {
+      "description": "Object detection is a computer vision technique used for locating instances of objects in images or videos. When humans look at images or video, we can recognize and locate objects of interest within a matter of moments. The goal of object detection is to replicate this intelligence using a computer.\nInputs are RGB images, the output is the predicted label, bounding box and score:\n\nThese networks have been trained to detect 80 objects classes from the COCO dataset. These models are suitable for training a custom object detector using transfer learning.\nTips for selecting a model\nPretrained object detectors have different characteristics that matter when choosing a network to apply to your problem. The most important characteristics are mean average precision (mAP), speed, and size. Choosing a network is generally a tradeoff between these characteristics.\nApplication Specific Object Detectors\nThese networks have been trained to detect specific objects for a given application.\nBack to top",
+      "items": [],
+      "title": "Object Detection"
+    },
+    {
+      "description": "Segmentation is essential for image analysis tasks. Semantic segmentation describes the process of associating each pixel of an image with a class label, (such as flower, person, road, sky, ocean, or car).\nInputs are RGB images, outputs are pixel classifications (semantic maps).\nThis network has been trained to detect 20 objects classes from the PASCAL VOC dataset:\nZero-shot image segmentation model:\nApplication Specific Semantic Segmentation Models\nBack to top",
+      "items": [],
+      "title": "Semantic Segmentation"
+    },
+    {
+      "description": "Instance segmentation is an enhanced type of object detection that generates a segmentation map for each detected instance of an object. Instance segmentation treats individual objects as distinct entities, regardless of the class of the objects. In contrast, semantic segmentation considers all objects of the same class as belonging to a single entity.\nInputs are RGB images, outputs are pixel classifications (semantic maps), bounding boxes and classification labels.\n\nBack to top",
+      "items": [],
+      "title": "Instance Segmentation"
+    },
+    {
+      "description": "Image translation is the task of transferring styles and characteristics from one image domain to another. This technique can be extended to other image-to-image learning operations, such as image enhancement, image colorization, defect generation, and medical image analysis.\nInputs are images, outputs are translated RGB images. This example workflow shows how a semantic segmentation map input translates to a synthetic image via a pretrained model (Pix2PixHD):\n\nBack to top",
+      "items": [],
+      "title": "Image Translation"
+    },
+    {
+      "description": "Pose estimation is a computer vision technique for localizing the position and orientation of an object using a fixed set of keypoints.\nAll inputs are RGB images, outputs are heatmaps and part affinity fields (PAFs) which via post processing perform pose estimation.\n\nBack to top",
+      "items": [],
+      "title": "Pose Estimation"
+    },
+    {
+      "description": "3D reconstruction is the process of capturing the shape and appearance of real objects.\nBack to top",
+      "items": [],
+      "title": "3D Reconstruction"
+    },
+    {
+      "description": "Video classification is a computer vision technique for classifying the action or content in a sequence of video frames.\nAll inputs are Videos only or Video with Optical Flow data, outputs are gesture classifications and scores.\n\nBack to top",
+      "items": [],
+      "title": "Video Classification"
+    },
+    {
+      "description": "Text detection is a computer vision technique used for locating instances of text within in images.\nInputs are RGB images, outputs are bounding boxes that identify regions of text.\n\nApplication Specific Text Detectors\nBack to top",
+      "items": [],
+      "title": "Text Detection and Recognition"
+    },
+    {
+      "description": "Transformer pretained models have already learned to extract powerful and informative features features from text. Use them as a starting point to learn a new task using transfer learning.\nInputs are sequences of text, outputs are text feature embeddings.\n\nApplication Specific Transformers\nBack to top",
+      "items": [],
+      "title": "Transformers (Text)"
+    },
+    {
+      "description": "Audio embedding pretrained models have already learned to extract powerful and informative features from audio signals. Use them as a starting point to learn a new task using transfer learning.\nInputs are audio signals, outputs are audio feature embeddings.\n\nNote 2: Since R2024a, please use the audioPretrainedNetwork function instead and specify the pretrained model. For example, use the following code to access VGGish:",
+      "items": [],
+      "title": "Audio Embeddings"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Application Specific Audio Models"
+    },
+    {
+      "description": "Speech-to-text models provide a fast, efficient method to convert spoken language into written text, enhancing accessibility for individuals with disabilities, enabling downstream tasks like text summarization and sentiment analysis, and streamlining documentation processes. As a key element of human-machine interfaces, including personal assistants, it allows for natural and intuitive interactions, enabling machines to understand and execute spoken commands, improving usability and broadening inclusivity across various applications.\nInputs are audio signals, outputs is text.\n\nBack to top",
+      "items": [],
+      "title": "Speech to Text"
+    },
+    {
+      "description": "Point cloud data is acquired by a variety of sensors, such as lidar, radar, and depth cameras. Training robust classifiers with point cloud data is challenging because of the sparsity of data per object, object occlusions, and sensor noise. Deep learning techniques have been shown to address many of these challenges by learning robust feature representations directly from point cloud data.\nInputs are Lidar Point Clouds converted to five-channels, outputs are segmentation, classification or object detection results overlayed on point clouds.\n\nBack to top",
+      "items": [],
+      "title": "Lidar"
+    },
+    {
+      "description": "Manipulator motion planning is a technique used to plan a trajectory for a robotic arm from a start position to a goal position in an obstacle environment.\nPretrained deep learning models have learned to plan such trajectories for repetitive tasks such as picking and placing of objects, leading to speed ups over traditional algorithms.\nInputs are start configuration, goal configuration and obstacle environment encoding for the robot, outputs are intermediate trajectory guesses.\n\nBack to top",
+      "items": [],
+      "title": "Manipulator Motion Planning"
+    },
+    {
+      "description": "If you'd like to request MATLAB support for additional pretrained models, please create an issue from this repo.\nAlternatively send the request through to:\nJianghao Wang Deep Learning Product Manager jianghaw@mathworks.com\nCopyright 2024, The MathWorks, Inc.",
+      "items": [],
+      "title": "Model requests"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:26:03.850Z",
+    "original_repository": "matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub",
+    "original_repository_sha": "0e9d2f5199d2689faee3f637004bb5ef168886b4",
+    "enhanced_repository": "enhansome/enhansome-MATLAB-Deep-Learning-Model-Hub",
+    "enhanced_repository_description": null,
+    "title": "Awesome MATLAB Deep Learning Model Hub with stars"
+  }
+}
