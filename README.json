@@ -149,6 +149,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Transformers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436681855,
+                "language": "MATLAB",
+                "last_commit": "2026-04-22T16:25:38Z",
+                "owner": "matlab-deep-learning",
+                "repo": "MATLAB-Deep-Learning-Model-Hub",
+                "stars": 557
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Natural Language Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Audio Embeddings",
               "description": null,
               "children": [],
@@ -303,10 +325,475 @@
         }
       ],
       "title": "Models"
+    },
+    {
+      "description": "Pretrained image classification networks have already learned to extract powerful and informative features from natural images. Use them as a starting point to learn a new task using transfer learning.\nInputs are RGB images, the output is the predicted label and score:\nThese networks have been trained on more than a million images and can classify images into 1000 object categories.\nModels available in MATLAB:\nNote 1: Since R2024a, please use the imagePretrainedNetwork function instead and specify the pretrained model. For example, use the following code to access googlenet:\nTips for selecting a model\nPretrained networks have different characteristics that matter when choosing a network to apply to your problem. The most important characteristics are network accuracy, speed, and size. Choosing a network is generally a tradeoff between these characteristics. The following figure highlights these tradeoffs:\nFigure. Comparing image classification model accuracy, speed and size.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "googlenet",
+          "description": "1 27 1000 66.25 Doc GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238692620,
+            "language": "MATLAB",
+            "last_commit": "2020-02-06T13:31:00Z",
+            "owner": "matlab-deep-learning",
+            "repo": "googlenet",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resnet18",
+          "description": "1 44 1000 69.49 Doc GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238716075,
+            "language": "MATLAB",
+            "last_commit": "2020-02-06T15:10:23Z",
+            "owner": "matlab-deep-learning",
+            "repo": "resnet-18",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resnet50",
+          "description": "1 96 1000 74.46 Doc GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238713483,
+            "language": "MATLAB",
+            "last_commit": "2020-02-06T14:58:01Z",
+            "owner": "matlab-deep-learning",
+            "repo": "resnet-50",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resnet101",
+          "description": "1 167 1000 75.96 Doc GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214175420,
+            "language": "MATLAB",
+            "last_commit": "2019-10-10T12:22:47Z",
+            "owner": "matlab-deep-learning",
+            "repo": "resnet-101",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mobilenetv2",
+          "description": "1 13 1000 70.44 Doc GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238717027,
+            "language": "MATLAB",
+            "last_commit": "2020-02-06T15:14:55Z",
+            "owner": "matlab-deep-learning",
+            "repo": "mobilenet-v2",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConvMixer",
+          "description": "7.7 10 - GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 435598004,
+            "language": "MATLAB",
+            "last_commit": "2021-12-08T18:59:14Z",
+            "owner": "matlab-deep-learning",
+            "repo": "convmixer-patches-are-all-you-need",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Image Classification"
+    },
+    {
+      "description": "Object detection is a computer vision technique used for locating instances of objects in images or videos. When humans look at images or video, we can recognize and locate objects of interest within a matter of moments. The goal of object detection is to replicate this intelligence using a computer.\nInputs are RGB images, the output is the predicted label, bounding box and score:\nThese networks have been trained to detect 80 objects classes from the COCO dataset. These models are suitable for training a custom object detector using transfer learning.\nTips for selecting a model\nPretrained object detectors have different characteristics that matter when choosing a network to apply to your problem. The most important characteristics are mean average precision (mAP), speed, and size. Choosing a network is generally a tradeoff between these characteristics.\nApplication Specific Object Detectors\nThese networks have been trained to detect specific objects for a given application.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EfficientDet-D0",
+          "description": "efficientnet 15.9 33.7 80 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369083881,
+            "language": "MATLAB",
+            "last_commit": "2023-11-03T07:10:17Z",
+            "owner": "matlab-deep-learning",
+            "repo": "pretrained-efficientdet-d0",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLO v9",
+          "description": "yolo9tyolo9syolo9myolo9cyolo9e 7.5 25 67.2 85 190 38.3 46.8 51.453.0 55.6 80 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 841477066,
+            "language": "MATLAB",
+            "last_commit": "2024-08-13T19:46:36Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Pretrained-Yolov9-Network-For-Object-Detection",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLO v8",
+          "description": "yolo8nyolo8syolo8myolo8lyolo8x 10.7 37.285.4 143.3222.7 37.344.950.252.953.9 80 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764456427,
+            "language": "MATLAB",
+            "last_commit": "2026-01-23T18:06:19Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Pretrained-YOLOv8-Network-For-Object-Detection",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLOX",
+          "description": "YoloX-sYoloX-mYoloX-l 32 90.2192.9 39.8 45.948.6 80 DocGitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513138530,
+            "language": null,
+            "last_commit": "2024-02-01T12:54:20Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Pretrained-YOLOX-Network-For-Object-Detection",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLO v4",
+          "description": "yolov4-coco yolov4-tiny-coco 229 21.5 44.2 19.7 80 DocGitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 377035346,
+            "language": "MATLAB",
+            "last_commit": "2025-09-29T05:08:43Z",
+            "owner": "matlab-deep-learning",
+            "repo": "pretrained-yolo-v4",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLO v2",
+          "description": "darknet19-COCO tiny-yolo_v2-coco 181 40 28.7 10.5 80 DocGitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346324778,
+            "language": null,
+            "last_commit": "2024-02-01T12:18:28Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Object-Detection-Using-Pretrained-YOLO-v2",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spatial-CNN",
+          "description": "Lane detection 74 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 364803836,
+            "language": "MATLAB",
+            "last_commit": "2026-02-17T19:19:03Z",
+            "owner": "matlab-deep-learning",
+            "repo": "pretrained-spatial-CNN",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RESA",
+          "description": "Road Boundary detection 95 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 571572482,
+            "language": "MATLAB",
+            "last_commit": "2022-11-28T13:15:12Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Pretrained-RESA-Network-For-Road-Boundary-Detection",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Object Detection"
+    },
+    {
+      "description": "Segmentation is essential for image analysis tasks. Semantic segmentation describes the process of associating each pixel of an image with a class label, (such as flower, person, road, sky, ocean, or car).\nInputs are RGB images, outputs are pixel classifications (semantic maps).\nThis network has been trained to detect 20 objects classes from the PASCAL VOC dataset:\nZero-shot image segmentation model:\nApplication Specific Semantic Segmentation Models",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepLabv3+",
+          "description": "209 0.87 20 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 359412812,
+            "language": "MATLAB",
+            "last_commit": "2021-04-26T13:05:46Z",
+            "owner": "matlab-deep-learning",
+            "repo": "pretrained-deeplabv3plus",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Semantic Segmentation"
+    },
+    {
+      "description": "Instance segmentation is an enhanced type of object detection that generates a segmentation map for each detected instance of an object. Instance segmentation treats individual objects as distinct entities, regardless of the class of the objects. In contrast, semantic segmentation considers all objects of the same class as belonging to a single entity.\nInputs are RGB images, outputs are pixel classifications (semantic maps), bounding boxes and classification labels.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mask R-CNN",
+          "description": "80 Doc Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 313350056,
+            "language": "MATLAB",
+            "last_commit": "2021-03-22T18:35:23Z",
+            "owner": "matlab-deep-learning",
+            "repo": "mask-rcnn",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Instance Segmentation"
+    },
+    {
+      "description": "3D reconstruction is the process of capturing the shape and appearance of real objects.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeRF",
+          "description": "3.78 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 740328113,
+            "language": "MATLAB",
+            "last_commit": "2024-01-17T01:55:31Z",
+            "owner": "matlab-deep-learning",
+            "repo": "nerf",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "3D Reconstruction"
+    },
+    {
+      "description": "Text detection is a computer vision technique used for locating instances of text within in images.\nInputs are RGB images, outputs are bounding boxes that identify regions of text.\nApplication Specific Text Detectors",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CRAFT",
+          "description": "Trained to detect English, Korean, Italian, French, Arabic, German and Bangla (Indian). 3.8 Doc GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378038300,
+            "language": null,
+            "last_commit": "2026-03-26T13:09:42Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Text-Detection-using-Deep-Learning",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seven Segment Digit Recognition",
+          "description": "Seven segment digit recognition using deep learning and OCR. This is helpful in industrial automation applications where digital displays are often surrounded with complex background. 3.8 Doc GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428548485,
+            "language": null,
+            "last_commit": "2025-06-18T05:26:34Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Seven-Segment-Digit-Recognition",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Text Detection and Recognition"
+    },
+    {
+      "description": "Transformer pretained models have already learned to extract powerful and informative features features from text. Use them as a starting point to learn a new task using transfer learning.\nInputs are sequences of text, outputs are text feature embeddings.\nApplication Specific Transformers",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BERT",
+          "description": "Feature Extraction (Sentence and Word embedding), Text Classification, Token Classification, Masked Language Modeling, Question Answering 390 GitHub Doc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289272910,
+            "language": "MATLAB",
+            "last_commit": "2023-09-19T15:43:50Z",
+            "owner": "matlab-deep-learning",
+            "repo": "transformer-models",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinBERT",
+          "description": "The FinBERT model is a BERT model for financial sentiment analysis 388 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289272910,
+            "language": "MATLAB",
+            "last_commit": "2023-09-19T15:43:50Z",
+            "owner": "matlab-deep-learning",
+            "repo": "transformer-models",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT-2",
+          "description": "The GPT-2 model is a decoder model used for text summarization. 1.2GB GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289272910,
+            "language": "MATLAB",
+            "last_commit": "2023-09-19T15:43:50Z",
+            "owner": "matlab-deep-learning",
+            "repo": "transformer-models",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Transformers (Text)"
+    },
+    {
+      "description": "Speech-to-text models provide a fast, efficient method to convert spoken language into written text, enhancing accessibility for individuals with disabilities, enabling downstream tasks like text summarization and sentiment analysis, and streamlining documentation processes. As a key element of human-machine interfaces, including personal assistants, it allows for natural and intuitive interactions, enabling machines to understand and execute spoken commands, improving usability and broadening inclusivity across various applications.\nInputs are audio signals, outputs is text.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wav2vec",
+          "description": "Speech to Text 236 3.2 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 431513175,
+            "language": null,
+            "last_commit": "2022-03-29T18:07:51Z",
+            "owner": "matlab-deep-learning",
+            "repo": "wav2vec-2.0",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepspeech",
+          "description": "Speech to Text 167 5.97 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 496807264,
+            "language": "MATLAB",
+            "last_commit": "2023-06-08T17:15:10Z",
+            "owner": "matlab-deep-learning",
+            "repo": "deepspeech",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Speech to Text"
+    },
+    {
+      "description": "Point cloud data is acquired by a variety of sensors, such as lidar, radar, and depth cameras. Training robust classifiers with point cloud data is challenging because of the sparsity of data per object, object occlusions, and sensor noise. Deep learning techniques have been shown to address many of these challenges by learning robust feature representations directly from point cloud data.\nInputs are Lidar Point Clouds converted to five-channels, outputs are segmentation, classification or object detection results overlayed on point clouds.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SalsaNext",
+          "description": "Segmentation 20.9 13 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385546249,
+            "language": "MATLAB",
+            "last_commit": "2025-09-05T06:35:34Z",
+            "owner": "matlab-deep-learning",
+            "repo": "pretrained-salsanext",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complex YOLO v4",
+          "description": "Object Detection 233 (complex-yolov4) 21 (tiny-complex-yolov4) 3 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 435487976,
+            "language": "MATLAB",
+            "last_commit": "2025-09-05T06:29:43Z",
+            "owner": "matlab-deep-learning",
+            "repo": "Lidar-object-detection-using-complex-yolov4",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Lidar"
+    },
+    {
+      "description": "Manipulator motion planning is a technique used to plan a trajectory for a robotic arm from a start position to a goal position in an obstacle environment.\nPretrained deep learning models have learned to plan such trajectories for repetitive tasks such as picking and placing of objects, leading to speed ups over traditional algorithms.\nInputs are start configuration, goal configuration and obstacle environment encoding for the robot, outputs are intermediate trajectory guesses.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep-Learning-Based CHOMP (DLCHOMP)",
+          "description": "Trajectory Prediction 25 DocGitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 794687585,
+            "language": "MATLAB",
+            "last_commit": "2024-05-01T19:05:25Z",
+            "owner": "matlab-deep-learning",
+            "repo": "pretrained-dlCHOMP",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Manipulator Motion Planning"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:54:50.010Z",
+    "last_updated": "2026-08-24T14:22:04.393Z",
     "original_repository": "matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub",
     "original_repository_id": 436681855,
     "original_repository_sha": "0e9d2f5199d2689faee3f637004bb5ef168886b4",
