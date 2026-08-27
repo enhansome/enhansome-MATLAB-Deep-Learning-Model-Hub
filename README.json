@@ -793,9 +793,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:02:30.457Z",
-    "original_repository": "matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub",
-    "original_repository_id": 436681855,
+    "last_updated": "2026-08-27T11:51:35.875Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 436681855,
+      "language": "MATLAB",
+      "last_commit": "2026-04-22T16:25:38Z",
+      "owner": "matlab-deep-learning",
+      "repo": "MATLAB-Deep-Learning-Model-Hub",
+      "stars": 557
+    },
     "original_repository_sha": "0e9d2f5199d2689faee3f637004bb5ef168886b4",
     "enhanced_repository": "enhansome/enhansome-MATLAB-Deep-Learning-Model-Hub",
     "enhanced_repository_description": null,
