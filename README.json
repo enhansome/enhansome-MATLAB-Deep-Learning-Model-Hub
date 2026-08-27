@@ -467,7 +467,7 @@
             "last_commit": "2026-01-23T18:06:19Z",
             "owner": "matlab-deep-learning",
             "repo": "Pretrained-YOLOv8-Network-For-Object-Detection",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:04:13.180Z",
+    "last_updated": "2026-08-27T00:02:30.457Z",
     "original_repository": "matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub",
     "original_repository_id": 436681855,
     "original_repository_sha": "0e9d2f5199d2689faee3f637004bb5ef168886b4",
