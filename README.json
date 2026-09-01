@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "matlab-deep-learning",
             "repo": "pretrained-yolo-v4",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1197,7 +1197,7 @@
             "open_issues": 13,
             "owner": "matlab-deep-learning",
             "repo": "transformer-models",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "bert",
               "deep-learning",
@@ -1228,7 +1228,7 @@
             "open_issues": 13,
             "owner": "matlab-deep-learning",
             "repo": "transformer-models",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "bert",
               "deep-learning",
@@ -1259,7 +1259,7 @@
             "open_issues": 13,
             "owner": "matlab-deep-learning",
             "repo": "transformer-models",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "bert",
               "deep-learning",
@@ -1454,7 +1454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:03:42.043Z",
+    "last_updated": "2026-09-01T22:48:03.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover pretrained models for deep learning in MATLAB",
