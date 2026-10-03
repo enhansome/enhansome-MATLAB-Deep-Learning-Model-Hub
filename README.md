@@ -6,37 +6,37 @@ Discover pretrained models for deep learning in MATLAB.
 
 ### Computer Vision
 
-* [Image Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#image-classification-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Object Detection](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#object-detection-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Semantic Segmentation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#semantic-segmentation-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Instance Segmentation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#instance-segmentation-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Image Translation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#image-translation-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Pose Estimation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#pose-estimation-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [3D Reconstruction](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#3d-reconstruction-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Video Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#video-classification-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Text Detection & Recognition](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#text-detection-and-recognition-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+* [Image Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#image-classification-)
+* [Object Detection](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#object-detection-)
+* [Semantic Segmentation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#semantic-segmentation-)
+* [Instance Segmentation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#instance-segmentation-)
+* [Image Translation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#image-translation-)
+* [Pose Estimation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#pose-estimation-)
+* [3D Reconstruction](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#3d-reconstruction-)
+* [Video Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#video-classification-)
+* [Text Detection & Recognition](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#text-detection-and-recognition-)
 
 ### Natural Language Processing
 
-* [Transformers](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#transformers-text-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+* [Transformers](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#transformers-text-)
 
 ### Audio
 
-* [Audio Embeddings](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#audio-embeddings-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Sound Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#application-specific-audio-models) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Pitch Estimation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#application-specific-audio-models) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Speech to Text](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#speech-to-text-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+* [Audio Embeddings](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#audio-embeddings-)
+* [Sound Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#application-specific-audio-models)
+* [Pitch Estimation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#application-specific-audio-models)
+* [Speech to Text](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#speech-to-text-)
 
 ### Lidar
 
-* [Point Cloud Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#lidar-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Point Cloud Segmentation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#lidar-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Point Cloud Object Detection](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#lidar-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+* [Point Cloud Classification](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#lidar-)
+* [Point Cloud Segmentation](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#lidar-)
+* [Point Cloud Object Detection](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#lidar-)
 
 ### Robotics
 
-* [Manipulator Motion Planning](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#manipulator-motion-planning-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
-* [Path Planning with Motion Planning Networks](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#path-planning-with-motion-planning-networks-) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+* [Manipulator Motion Planning](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#manipulator-motion-planning-)
+* [Path Planning with Motion Planning Networks](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#path-planning-with-motion-planning-networks-)
 
 ## Image Classification <a name="ImageClassification"/>
 
@@ -88,7 +88,7 @@ Pretrained networks have different characteristics that matter when choosing a n
 ![](Images/pretrained.png)
 Figure. Comparing image classification model accuracy, speed and size.
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Object Detection <a name="ObjectDetection"/>
 
@@ -125,7 +125,7 @@ These networks have been trained to detect specific objects for a given applicat
 | [Single Shot Detector (SSD)](https://www.mathworks.com/help/vision/ug/object-detection-using-single-shot-detector.html)                       | Vehicle detection       | 44        | [Doc ](https://www.mathworks.com/help/vision/ug/object-detection-using-single-shot-detector.html)                                                | <img src="Images/ObjectDetectionUsingSSD.png" width=150> |
 | [Faster R-CNN](https://www.mathworks.com/help/vision/ug/object-detection-using-faster-r-cnn-deep-learning.html)                               | Vehicle detection       | 118       | [Doc](https://www.mathworks.com/help/vision/ug/object-detection-using-faster-r-cnn-deep-learning.html)                                           | <img src="Images/faster_rcnn.png" width=150>             |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Semantic Segmentation <a name="SemanticSegmentation"/>
 
@@ -153,7 +153,7 @@ Zero-shot image segmentation model:
 | [3-D U-net](https://www.mathworks.com/help/images/segment-3d-brain-tumor-using-deep-learning.html)                                               | Brain Tumor Segmentation               | 56.2      | [Doc](https://www.mathworks.com/help/images/segment-3d-brain-tumor-using-deep-learning.html)                                          | <img src="Images/Segment3DBrainTumor.gif" width=150> |
 | [AdaptSeg (GAN)](https://www.mathworks.com/help/deeplearning/ug/train-deep-learning-semantic-segmentation-network-using-3d-simulation-data.html) | Model tuning using 3-D simulation data | 54.4      | [Doc](https://www.mathworks.com/help/deeplearning/ug/train-deep-learning-semantic-segmentation-network-using-3d-simulation-data.html) | <img src="Images/adaptSeg.png" width=150>            |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Instance Segmentation <a name="InstanceSegmentation"/>
 
@@ -167,7 +167,7 @@ Inputs are RGB images, outputs are pixel classifications (semantic maps), boundi
 | --------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Mask R-CNN](https://www.mathworks.com/help/vision/ref/maskrcnn.html) | 80             | [Doc](https://www.mathworks.com/help/vision/ref/maskrcnn.html) <br />  [Github](https://github.com/matlab-deep-learning/mask-rcnn) ⭐ 29 \| 🐛 3 \| 🌐 MATLAB \| 📅 2021-03-22 |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Image Translation <a name="ImageTranslation"/>
 
@@ -185,7 +185,7 @@ Inputs are images, outputs are translated RGB images. This example workflow show
 | [CycleGAN](https://www.mathworks.com/help/images/unsupervised-medical-image-denoising-using-cyclegan.html)                | Medical Image Denoising                                                         | 75.3      | [Doc](https://www.mathworks.com/help/images/unsupervised-medical-image-denoising-using-cyclegan.html)         | <img src="Images/cyclegan_imagedenoising.png" width=150> |
 | [VDSR](https://www.mathworks.com/help/images/single-image-super-resolution-using-deep-learning.html)                      | Super Resolution (estimate a high-resolution image from a low-resolution image) | 2.4       | [Doc](https://www.mathworks.com/help/images/single-image-super-resolution-using-deep-learning.html)           | <img src="Images/SuperResolution.png" width=150>         |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Pose Estimation <a name="PoseEstimation"/>
 
@@ -200,7 +200,7 @@ All inputs are RGB images, outputs are heatmaps and part affinity fields (PAFs) 
 | [OpenPose](https://www.mathworks.com/help/vision/ug/estimate-body-pose-using-deep-learning.html) | vgg19                                        | 14               | [Doc](https://www.mathworks.com/help/vision/ug/estimate-body-pose-using-deep-learning.html) |
 | [HR Net](https://www.mathworks.com/help/vision/ref/hrnetobjectkeypointdetector.html)             | human-full-body-w32<br />human-full-body-w48 | 106.9<br />237.7 | [Doc](https://www.mathworks.com/help/vision/ref/hrnetobjectkeypointdetector.html)           |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## 3D Reconstruction <a name="3DReconstruction"/>
 
@@ -210,7 +210,7 @@ All inputs are RGB images, outputs are heatmaps and part affinity fields (PAFs) 
 | ----------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
 | [NeRF](https://github.com/matlab-deep-learning/nerf) ⭐ 10 \| 🐛 0 \| 🌐 MATLAB \| 📅 2024-01-17 | 3.78      | [GitHub](https://github.com/matlab-deep-learning/nerf) ⭐ 10 \| 🐛 0 \| 🌐 MATLAB \| 📅 2024-01-17 | ![NeRF](Images/nerf.jpg) |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Video Classification <a name="VideoClassification"/>
 
@@ -226,7 +226,7 @@ All inputs are Videos only or Video with Optical Flow data, outputs are gesture 
 | [R(2+1)D](https://www.mathworks.com/help/vision/ref/r2plus1dvideoclassifier.html)       | Video                     | 112      | 400                             | Faster convergence than Inflated-3D                                           | [Doc](https://www.mathworks.com/help/vision/ref/r2plus1dvideoclassifier.html)   |
 | [Inflated-3D](https://www.mathworks.com/help/vision/ref/inflated3dvideoclassifier.html) | Video & Optical Flow data | 91       | 400                             | Accuracy of the classifier improves when combining optical flow and RGB data. | [Doc](https://www.mathworks.com/help/vision/ref/inflated3dvideoclassifier.html) |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Text Detection and Recognition <a name="textdetection"/>
 
@@ -246,7 +246,7 @@ Inputs are RGB images, outputs are bounding boxes that identify regions of text.
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Seven Segment Digit Recognition](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition) ⭐ 10 \| 🐛 0 \| 📅 2025-06-18 | Seven segment digit recognition using deep learning and OCR. This is helpful in industrial automation applications where digital displays are often surrounded with complex background. | 3.8       | [Doc](https://www.mathworks.com/help/vision/ref/ocr.html) <br /> [GitHub](https://github.com/matlab-deep-learning/Seven-Segment-Digit-Recognition) ⭐ 10 \| 🐛 0 \| 📅 2025-06-18 | ![](Images/7segment.png) |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Transformers (Text) <a name="transformers"/>
 
@@ -269,7 +269,7 @@ Inputs are sequences of text, outputs are text feature embeddings.
 | [FinBERT](https://github.com/matlab-deep-learning/transformer-models#bert-and-finbert) ⭐ 245 \| 🐛 13 \| 🌐 MATLAB \| 📅 2023-09-19 | The FinBERT model is a BERT model for financial sentiment analysis | 388       | [GitHub](https://github.com/matlab-deep-learning/transformer-models#bert-and-finbert) ⭐ 245 \| 🐛 13 \| 🌐 MATLAB \| 📅 2023-09-19 | ![](Images/finbert.png) |
 | [GPT-2](https://github.com/matlab-deep-learning/transformer-models#gpt-2) ⭐ 245 \| 🐛 13 \| 🌐 MATLAB \| 📅 2023-09-19              | The GPT-2 model is a decoder model used for text summarization.    | 1.2GB     | [GitHub](https://github.com/matlab-deep-learning/transformer-models#gpt-2) ⭐ 245 \| 🐛 13 \| 🌐 MATLAB \| 📅 2023-09-19            | ![](Images/gpt2.png)    |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Audio Embeddings <a name="AudioEmbeddings"/>
 
@@ -312,7 +312,7 @@ Inputs are audio signals, outputs is text.
 | [wav2vec](https://github.com/matlab-deep-learning/wav2vec-2.0) ⭐ 8 \| 🐛 0 \| 📅 2022-03-29                | Speech to Text | 236       | 3.2                   | [GitHub](https://github.com/matlab-deep-learning/wav2vec-2.0) ⭐ 8 \| 🐛 0 \| 📅 2022-03-29             |
 | [deepspeech](https://github.com/matlab-deep-learning/deepspeech) ⭐ 7 \| 🐛 1 \| 🌐 MATLAB \| 📅 2023-06-08 | Speech to Text | 167       | 5.97                  | [GitHub](https://github.com/matlab-deep-learning/deepspeech) ⭐ 7 \| 🐛 1 \| 🌐 MATLAB \| 📅 2023-06-08 |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Lidar <a name="PointCloud"/>
 
@@ -332,7 +332,7 @@ Inputs are Lidar Point Clouds converted to five-channels, outputs are segmentati
 | <a name="PointCloudObj"/>[PointPillars](https://www.mathworks.com/help/lidar/ug/object-detection-using-pointpillars-network.html)                 | Object Detection | 8                                                    | 3              | [Doc](https://www.mathworks.com/help/lidar/ug/object-detection-using-pointpillars-network.html)                                          |
 | [Complex YOLO v4](https://github.com/matlab-deep-learning/Lidar-object-detection-using-complex-yolov4) ⭐ 30 \| 🐛 0 \| 🌐 MATLAB \| 📅 2025-09-05 | Object Detection | 233 (complex-yolov4) <br /> 21 (tiny-complex-yolov4) | 3              | [GitHub](https://github.com/matlab-deep-learning/Lidar-object-detection-using-complex-yolov4) ⭐ 30 \| 🐛 0 \| 🌐 MATLAB \| 📅 2025-09-05 |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Manipulator Motion Planning <a name="ManipMotionPlanning"/>
 
@@ -348,7 +348,7 @@ Inputs are start configuration, goal configuration and obstacle environment enco
 | ----------------------------------------------------------------------------------------------- | --------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Deep-Learning-Based CHOMP (DLCHOMP)](https://www.mathworks.com/help/robotics/ref/dlchomp.html) | Trajectory Prediction | 25        | [Doc](https://www.mathworks.com/help/robotics/ref/dlchomp.html)<br />[GitHub](https://github.com/matlab-deep-learning/pretrained-dlchomp) ⭐ 10 \| 🐛 0 \| 🌐 MATLAB \| 📅 2024-05-01 |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Path Planning with Motion Planning Networks <a name="PathPlanningMPNet"/>
 
@@ -365,7 +365,7 @@ To know more please visit [Get Started with Motion Planning Networks](https://ww
 | ----------------------------------------------------------------------------------------------------------- | ------------- | --------- | ------------------------------------------------------------------------------------------------------- |
 | [mazeMapTrainedMPNET](https://www.mathworks.com/help/nav/ug/get-started-with-motion-planning-networks.html) | Path Planning | 0.23      | [Doc](https://www.mathworks.com/help/nav/ug/train-deep-learning-based-sampler-for-motion-planning.html) |
 
-[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub) ⭐ 559 | 🐛 12 | 🌐 MATLAB | 📅 2026-09-29
+[Back to top](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub#matlab-deep-learning-model-hub)
 
 ## Model requests
 
@@ -381,4 +381,4 @@ Copyright 2024, The MathWorks, Inc.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
