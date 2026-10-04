@@ -264,7 +264,7 @@
             "id": 513138530,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2024-02-01T12:54:20Z",
+            "last_commit": "2026-10-04T05:21:33Z",
             "open_issues": 0,
             "owner": "matlab-deep-learning",
             "repo": "Pretrained-YOLOX-Network-For-Object-Detection",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:18:18.244Z",
+    "last_updated": "2026-10-04T23:33:37.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover pretrained models for deep learning in MATLAB",
@@ -874,7 +874,7 @@
       "open_issues": 12,
       "owner": "matlab-deep-learning",
       "repo": "MATLAB-Deep-Learning-Model-Hub",
-      "stars": 559,
+      "stars": 560,
       "topics": [
         "awesome",
         "awesome-list",
