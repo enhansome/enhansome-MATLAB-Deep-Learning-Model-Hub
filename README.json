@@ -237,7 +237,7 @@
             "open_issues": 11,
             "owner": "matlab-deep-learning",
             "repo": "Pretrained-YOLOv8-Network-For-Object-Detection",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:36:49.775Z",
+    "last_updated": "2026-10-18T22:34:14.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover pretrained models for deep learning in MATLAB",
