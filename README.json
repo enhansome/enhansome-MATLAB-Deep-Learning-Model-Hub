@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:02:59.812Z",
+    "last_updated": "2026-10-27T23:57:38.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover pretrained models for deep learning in MATLAB",
@@ -871,7 +871,7 @@
       "language": "MATLAB",
       "license": "NOASSERTION",
       "last_commit": "2026-09-29T19:53:02Z",
-      "open_issues": 12,
+      "open_issues": 11,
       "owner": "matlab-deep-learning",
       "repo": "MATLAB-Deep-Learning-Model-Hub",
       "stars": 563,
