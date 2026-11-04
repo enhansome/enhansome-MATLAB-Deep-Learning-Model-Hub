@@ -605,7 +605,7 @@
             "open_issues": 13,
             "owner": "matlab-deep-learning",
             "repo": "transformer-models",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "bert",
               "deep-learning",
@@ -636,7 +636,7 @@
             "open_issues": 13,
             "owner": "matlab-deep-learning",
             "repo": "transformer-models",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "bert",
               "deep-learning",
@@ -667,7 +667,7 @@
             "open_issues": 13,
             "owner": "matlab-deep-learning",
             "repo": "transformer-models",
-            "stars": 245,
+            "stars": 246,
             "topics": [
               "bert",
               "deep-learning",
@@ -862,7 +862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:36:59.965Z",
+    "last_updated": "2026-11-04T00:51:33.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "Discover pretrained models for deep learning in MATLAB",
